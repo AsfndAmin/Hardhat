@@ -44,5 +44,8 @@ module.exports = {
     tests: "./test",
     cache: "./cache",
     artifacts: "./artifacts"
+  },
+    etherscan: {
+    apiKey: "GQYCRX15FKGSIP49BBDMDY7BFE443D5IB3",
   }
 };
